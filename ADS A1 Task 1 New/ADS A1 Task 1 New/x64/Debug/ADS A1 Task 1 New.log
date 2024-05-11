@@ -1,0 +1,26 @@
+﻿  Character.cpp
+  Mage.cpp
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Mage.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Paladin.h(8,24): warning C4584: 'Paladin': base-class 'Character' is already a base-class of 'Warrior'
+  (compiling source file 'Main.cpp')
+  C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Character.h(6,7):
+  see declaration of 'Character'
+  C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Warrior.h(8,7):
+  see declaration of 'Warrior'
+  
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Paladin.cpp
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Paladin.h(8,24): warning C4584: 'Paladin': base-class 'Character' is already a base-class of 'Warrior'
+  (compiling source file 'Paladin.cpp')
+  C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Character.h(6,7):
+  see declaration of 'Character'
+  C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Warrior.h(8,7):
+  see declaration of 'Warrior'
+  
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Paladin.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Warrior.cpp
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Warrior.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\ADS A1 Task 1 New\Paladin.cpp(40,1): warning C4715: 'Paladin::DoAction': not all control paths return a value
+  ADS A1 Task 1 New.vcxproj -> C:\Users\johnl\source\repos\ADS\A1\ADS A1 Task 1 New\x64\Debug\ADS A1 Task 1 New.exe

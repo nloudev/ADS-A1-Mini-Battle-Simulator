@@ -1,0 +1,8 @@
+﻿  Character.cpp
+  Mage.cpp
+  Main.cpp
+C:\Users\johnl\source\repos\ADS A1 Task 1 New\ADS A1 Task 1 New\Main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\johnl\source\repos\ADS A1 Task 1 New\ADS A1 Task 1 New\Main.cpp(25,34): error C2065: 'ragePoints': undeclared identifier
+  Paladin.cpp
+  Warrior.cpp
+  Generating Code...
